@@ -1,2 +1,6 @@
-"# git_sample_repo" 
+
 git status -> prints the status of git repository
+git status prints the status of git repository
+get init- initialize 
+git instance
+git diff
