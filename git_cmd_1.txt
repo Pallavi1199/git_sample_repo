@@ -1,1 +1,2 @@
 "# git_sample_repo" 
+git status -> prints the status of git repository
